@@ -1,0 +1,6 @@
+{
+  "name": "TestPool",
+  "description": "The pool that tests all the pools",
+  "ticker": "PS01",
+  "homepage": "https://piotrszul.github.io/ada"
+}
